@@ -1,1 +1,1 @@
-# Java-Game
+I program a game in Java which can realize the following functions except for normal functions: 1) The plane controlled by mouse can follow the mouse pointer. 2) The plane will automatically shoot and once the bullet hits an enemy, the score will add 10 points, the enemy will be removed. 3) If the plane controlled by user is hit by enemies three times, game is over. 
